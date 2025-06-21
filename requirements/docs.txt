@@ -38,7 +38,7 @@ pyparsing==2.4.7
     # via packaging
 pytz==2021.1
     # via babel
-requests==2.26.0
+requests==2.32.4
     # via sphinx
 snowballstemmer==2.1.0
     # via sphinx
@@ -67,7 +67,7 @@ sphinxcontrib-qthelp==1.0.3
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
-urllib3==1.26.6
+urllib3==2.5.0
     # via requests
 
 # The following packages are considered to be unsafe in a requirements file:
